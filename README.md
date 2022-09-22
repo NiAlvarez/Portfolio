@@ -1,4 +1,4 @@
-# My Portfolio https://nialvarez.github.io/CLIPweb/
+# My Portfolio https://github.com/NiAlvarez/NiAlva-Portfolio
 
-https://nialvarez.github.io/CLIPweb/
+https://github.com/NiAlvarez/NiAlva-Portfolio
 
